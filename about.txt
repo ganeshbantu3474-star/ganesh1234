@@ -1,0 +1,4 @@
+name   :-ganesh
+course :-BCA
+GitHub is a cloud-based platform for software development and version control, utilizing Git for distributed version control. It serves as a central hub for developers to store, manage, and collaborate on code and other project files.
+
